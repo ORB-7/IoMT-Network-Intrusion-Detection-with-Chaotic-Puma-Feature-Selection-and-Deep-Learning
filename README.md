@@ -1,5 +1,4 @@
 # IoMT-Network-Intrusion-Detection-with-Chaotic-Puma-Feature-Selection-and-Deep-Learning
-# Network Intrusion Detection with Chaotic Puma Feature Selection and Deep Learning
 
 ## Project Overview
 
